@@ -318,7 +318,7 @@ ave_delay_manufacture <- flights %>%
 ```
 ## Conclusion
 
-This report has explored the `nycflights13` dataset, what can be drawn from this is the following: Newark is the busiest airport, it suffers more departure and arrival delays than JFK or La Guardia. Weather should not be a major concern as wind, rain, humidity don't appear to influence punctuality as much as congestion does. No NYC airport stands out in terms of more adverse weather conditions, this is to be expected given their proximity to each each (within 20 miles). Furthermore it seems a smaller plane will suffer less delays opening the question of are passengers to blame. Finally, if you are flying from NYC to Blue Grass, Palm Springs or John Wayne airports you will most likely arrive ahead of time.  
+This report has explored the `nycflights13` dataset(r package), what can be drawn from this is the following: Newark is the busiest airport, it suffers more departure and arrival delays than JFK or La Guardia. Weather should not be a major concern as wind, rain, humidity don't appear to influence punctuality as much as congestion does. No NYC airport stands out in terms of more adverse weather conditions, this is to be expected given their proximity to each each (within 20 miles). Furthermore it seems a smaller plane will suffer less delays opening the question of are passengers to blame. Finally, if you are flying from NYC to Blue Grass, Palm Springs or John Wayne airports you will most likely arrive ahead of time.  
 
 
 ```{r}
