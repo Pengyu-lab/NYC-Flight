@@ -1,6 +1,6 @@
 ---
-title: "Untitled"
-author: "PENGYU YANG"
+title: "R language Group project"
+author: "Pengyu Yang, Susan Edgeworth, Jack Francis Hickey, Aaron John Doyle, James Doherty Ferris"
 output: html_document
 ---
 
